@@ -1,0 +1,17 @@
+[project]
+name = "agentic-ai-capstone"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+      "groq>=1.0.0",
+      "ollama>=0.6.1",
+      "pgvector>=0.4.2",
+      "phidata>=2.7.10",
+      "psycopg[binary]>=3.3.2",
+      "python-docx>=1.2.0",
+      "sqlalchemy>=2.0.46",
+      "streamlit>=1.54.0",
+      "textract>=1.6.5",
+]
