@@ -25,3 +25,9 @@ TKT-9E89C9,Webex App Installation,Requesting support to investigate a need for w
 TKT-35AE0E,Webex App Installation,User is requesting webex application installation to perform audits.,user123,2026-02-12 21:25:23
 TKT-2A6957,Webex app installation request,User requires assistance with installing the Webex application to audit its usage for auditing purposes.,user,2026-02-12 21:30:03
 TKT-7571A9,Coordinated attack pattern involving coordinated attacks with 503 errors from IP range 203.112.45.67-71 on /api/auth endpoint and 429 errors from IP range 91.34.55.201-205 on /login endpoint.,"A coordinated attack was detected that caused a total of 755 failed authentication attempts (503 from the specified IP range) at /api/auth, and another attempt resulted in an error (429).",yoga,2026-02-12 23:34:22
+TKT-D40073,System Slowness,User reports that my system is extremely slow.,user,2026-02-13 03:05:05
+TKT-B94127,System hung while charging,A system malfunction is causing the device to lose connectivity during charging.,user123,2026-02-13 04:19:35
+TKT-80227F,InvoiceService processing issue with cost center missing,Invoice Service is not properly processing costs. Cost center information is missing.,User,2026-02-13 16:11:24
+TKT-A4AC59,Login Failure,A login attempt to the service failed with an error.,user,2026-02-13 16:12:36
+TKT-B6DB94,Invoice Processing - Missing Cost Center Validation,Cost center validation issue in invoice processing workflow.,admin,2026-02-13 16:14:03
+TKT-1996F0,laptop hanging,Laptop hangs when trying to open WebX application.,user,2026-02-14 16:45:46
